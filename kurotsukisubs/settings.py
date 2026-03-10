@@ -78,12 +78,12 @@ WSGI_APPLICATION = 'kurotsukisubs.wsgi.application'
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
 
 DATABASES = {
-    "default": {
-        "ENGINE": "django.db.backends.mysql",
-        "NAME": "webtest",
-        "USER": "root",
-        "PASSWORD": "05021422"
-    }
+#     "default": {
+#         "ENGINE": "django.db.backends.mysql",
+#         "NAME": "webtest",
+#         "USER": "root",
+#         "PASSWORD": "05021422"
+#     }
 }
 
 
